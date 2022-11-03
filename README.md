@@ -14,3 +14,5 @@ Experiences:
 Like:  
 `React` `Next.js` `MUI` `vite` `Tailwind CSS` `msw` `Storybook` `Tanstack Query` `Recoil` `Jotai` `TypeScript` `Node.js` `CSS` `UI design` `AWS` `Azure` `English`
 
+Links:  
+[Zenn](https://zenn.dev/leftletter)
