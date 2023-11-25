@@ -3,5 +3,5 @@
 Experiences:
 - 5+ years of experience in web application development (good at front-end)
 - 1+ years of experience in research and development (natural language processing).
-- Experience as a development lead for web front-end development, design, technology selection, test policy design, requirement definition, etc.
+- Experienced in design, technology selection, testing policy formulation, specification coordination, etc. as a development lead for web front-end.
 - Main technology stack: `React` `TypeScript` `Node.js` `Express.js` `Python` `Docker`
