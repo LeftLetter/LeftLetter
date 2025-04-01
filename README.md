@@ -1,7 +1,13 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeftLetter&card_width=494&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeftLetter" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeftLetter" />
+</a>
 
-Experiences:
-- 5+ years of experience in web application development (good at front-end)
-- 1+ years of experience in research and development (natural language processing).
-- Experienced in design, technology selection, testing policy formulation, specification coordination, etc. as a development lead for web front-end.
-- Main technology stack: `React` `TypeScript` `Node.js` `Express.js` `Python` `Docker`
+
+### Experiences:
+- 7年以上のWebアプリケーション開発経験
+- 1年以上の自然言語処理や研究開発などの経験
+- Webアプリケーション開発をフルスタックに経験し、リードとしてアプリケーション設計、技術選定、テスト設計、顧客折衝、チームビルディング等を経験
+- 主な技術スタック：`TypeScript` `React` `Next.js` `Node.js` `Nest.js` `Express` `Python` `Docker` `AWS` `Azure` 
